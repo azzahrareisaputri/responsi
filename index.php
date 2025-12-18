@@ -166,7 +166,7 @@
         $color = (strpos($kab,'yogyakarta')!==false?'#ff1493':
                   (strpos($kab,'sleman')!==false?'#4A90E2':
                   (strpos($kab,'bantul')!==false?'#8a2be2':
-                  (strpos($kab,'kulon')!==false?'#ffd700':'#32cd32'))));
+                  (strpos($kab,'kulon')!==false?'#ffd700':'#32cd31'))));
         echo "allSchools.push({ 
             name:'$nama', 
             lat:'{$r['latitude']}', 
