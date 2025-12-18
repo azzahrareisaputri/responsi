@@ -26,7 +26,7 @@ Produk WebGIS ini dibangun menggunakan beberapa teknologi sebagai berikut:
 Data yang digunakan dalam aplikasi ini meliputi:
 - Data lokasi SMA Negeri di Daerah Istimewa Yogyakarta yang disimpan dalam database MySQL
 - Data batas administrasi wilayah DIY yang disajikan melalui layanan Web Map Service (WMS) dari GeoServer
-- Basemap OpenStreetMap dan Esri World Imagery
+- Basemap OpenStreetMap dan Esri World Imagery.
 
 ---
 
