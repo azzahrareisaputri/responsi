@@ -8,36 +8,18 @@ Fitur utama yang tersedia meliputi pencarian nama sekolah, filter berdasarkan ka
 ---
 
 ## Teknologi Pembangun Produk
-Produk WebGIS ini dibangun menggunakan beberapa teknologi sebagai berikut:
-- **HTML5** : Struktur halaman web
-- **CSS3** : Styling tampilan antarmuka
-- **JavaScript** : Logika interaktif aplikasi
-- **Bootstrap 5** : Desain responsif antarmuka
-- **Leaflet.js** : Library peta interaktif
-- **Leaflet Mouse Position** : Menampilkan koordinat kursor
-- **PHP** : Menghubungkan data dari database ke WebGIS
-- **MySQL** : Penyimpanan data sekolah
-- **GeoServer (WMS)** : Penyedia layer batas administrasi DIY
-- **OpenStreetMap & Esri World Imagery** : Basemap peta
+- HTML5  
+- CSS3  
+- JavaScript  
+- Bootstrap 5  
+- Leaflet.js  
+- PHP  
+- MySQL  
+- GeoServer (WMS)
 
 ---
 
-## Sumber Data
-Data yang digunakan dalam aplikasi ini meliputi:
-- Data lokasi SMA Negeri di Daerah Istimewa Yogyakarta yang disimpan dalam database MySQL
-- Data batas administrasi wilayah DIY yang disajikan melalui layanan Web Map Service (WMS) dari GeoServer
-- Basemap OpenStreetMap dan Esri World Imagery.
-
----
-
-## Tangkapan Layar Aplikasi
-Berikut merupakan beberapa tampilan utama dari aplikasi WebGIS:
-
-### Tampilan Peta Interaktif
-![Tampilan Peta](screenshots/peta.png)
-
-### Tampilan Legenda
-![Popup Sekolah](screenshots/legenda.png)
-
-### Tampilan Tabel Data Sekolah
-![Tabel Data](screenshots/tabel.png)
+## Tangkapan Layar
+![Peta](screenshots/peta.png)  
+![Legenda](screenshots/legenda.png)  
+![Tabel](screenshots/tabel.png)
